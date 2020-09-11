@@ -17,4 +17,4 @@ The order is - "ETAOINSRHDLUCMFYWGPBVKXQJZ"
 
 
 # Demo
-![alt text](demo.png)<br/>
+![alt text](demo.jpg)<br/>
